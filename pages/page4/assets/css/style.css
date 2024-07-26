@@ -56,53 +56,59 @@ body{
     overflow: auto;
     position: relative;
 }
-.bg{
+.container{
+    position: relative;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    gap: 2rem;
+    padding-top: 80px;
+}
+.container .bg{
     position: absolute;
-    right: 0;
-    bottom: 0;
-    min-width: 100%;
-    min-height: 100%;
-    width: auto;
-    height: auto;
+    width: 100%;
+    height: 100%;
+    z-index: -2;
+}
+.container .bg img{
+    width: 100%;
+    height: 90%;
+    object-fit: cover;
+    position: absolute;
+    top: 0;
+    left: 0;
     z-index: -1;
 }
-@media(min-aspect-ratio: 16/9){
-    .bg{
-        width: 100%;
-        height: auto;
-    }
+.card{
+    font-family: "Playwrite CZ", cursive;
+    font-optical-sizing: auto;
+    font-weight: 100;
+    font-style: normal;
+    background: rgba(188, 210, 241, 0.7);
+    border-radius: 50px;
+    padding: 20px;
+    margin-top: 20px;
+    max-width: 400px;
+    text-align: left;
+    color: rgb(0, 0, 0);
 }
-.content{
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    text-align: center;
-    z-index: 1;
+.card .type{
+    width: 5rem;
+    padding-right: 10px;
 }
-
-.title{
-    font-family: "Poppins", sans-serif;
-    color: white;
-    font-size: 4rem;
-    font-weight: 900;
-    text-shadow: 0 0 3px white;
-    margin-bottom: 0.5rem;
+.card h1{
+    margin-bottom: 10px;
 }
-
-.subtitle{
-    font-family: "Poppins", sans-serif;
-    color: white;
-    font-size: 1.5rem;
-    font-weight: 500;
-    text-shadow: 0 0 3px white;
-    margin-bottom: 0.5rem;
+.card h2{
+    font-family: "Roboto", sans-serif;
+    font-weight: 450;
+    font-style: normal;
 }
-.description{
-    font-family: "Poppins", sans-serif;
-    color: white;
-    text-shadow: 0 0 3px white;
-    font-size: 1rem;
-    font-style: italic;
-    margin-top: 0;
+.card p{
+    font-family: "Roboto", sans-serif;
+    font-weight: 350;
+    font-style: normal;
 }
