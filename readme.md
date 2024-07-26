@@ -6,21 +6,21 @@
 <div align="center">
   <a href="https://github.com/zyx-0314/">
   <!-- TODO: If you want to add logo or banner you can add it here -->
-    <img src="./assets/img/nyebe_white.png" alt="Nyebe" width="130" height="100">
+    <img src="https://scontent.fmnl33-6.fna.fbcdn.net/v/t1.15752-9/449697975_1477336089839476_4972942663370974651_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=9f807c&_nc_ohc=Tqn0-UWGkZAQ7kNvgE8Bph7&_nc_ht=scontent.fmnl33-6.fna&oh=03_Q7cD1QGxFJL8IyRflcXH_6iKPsjw_Vjqvt3IpTkdv-oD7ukF9Q&oe=66CB8730" alt="Nyebe" width="130" height="100">
   </a>
 <!-- TODO: Change Title to the name of the title of your Project -->
-  <h3 align="center">Title</h3>
+  <h3 align="center">Hands on 2 Leonardo</h3>
 </div>
 <!-- TODO: Make a short description -->
 <div align="center">
-  Short Description. (Optional)
+  I made hero cards for the characters of the movie Avengers.
 </div>
 
 <br />
 
 <!-- TODO: Change the zyx-0314 into your github username  -->
 <!-- TODO: Change the WD-Template-Project into the same name of your folder -->
-![](https://visit-counter.vercel.app/counter.png?page=zyx-0314/WD-Template-Project)
+![](https://visit-counter.vercel.app/counter.png?page=elymaay/WD-Leonardosw4)
 
 ---
 
@@ -60,10 +60,10 @@
 Description of the project in details.
 
 Guiding Question:
-- What is the project
-- Whats the purpose
-- What are key components
-- What technology used and how it is used
+- What is the project - The project is to create a website that showcases hero cards that are animated and static.
+- Whats the purpose - This is a school activty to showcase the skills of the students in creating a website.
+- What are key components - The key components are the hero cards that are animated and static.
+- What technology used and how it is used - The technology used are HTML and CSS, HTML is used to create the structure of the website while CSS is used to style the website.
 
 ### Key Components
 <!-- TODO: List of Key Components -->
@@ -76,7 +76,7 @@ Guiding Question:
 <!-- TODO: List of Technology Used -->
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
+
 
 ## Rules, Practices and Principles
 1. Always use `WD-` in the front of the Title of the Project for the Subject followed by your custom naming.
@@ -116,5 +116,4 @@ WD-ProjectName
 
 <!-- TODO: Add References -->
 | Title | Purpose | Link |
-|-|-|-|
-| Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
+
