@@ -62,15 +62,13 @@ Description of the project in details.
 Guiding Question:
 - What is the project - The project is to create a website that showcases hero cards that are animated and static.
 - Whats the purpose - This is a school activty to showcase the skills of the students in creating a website.
-- What are key components - The key components are the hero cards that are animated and static.
+- What are key components - The key components is it is a multipage website.
 - What technology used and how it is used - The technology used are HTML and CSS, HTML is used to create the structure of the website while CSS is used to style the website.
 
 ### Key Components
 <!-- TODO: List of Key Components -->
 <!-- The following are just sample -->
-- MultiPage Website/Single Page Website
-- Parallax transition
-- Transactional
+- MultiPage Website
 
 ### Technology
 <!-- TODO: List of Technology Used -->
@@ -115,5 +113,5 @@ WD-ProjectName
 ## Resources
 
 <!-- TODO: Add References -->
-| Title | Purpose | Link |
+| Responsive Website with CSS Slider | I used this as a template | [Link](https://www.divinectorweb.com/2024/05/responsive-web-layout-with-css-slider.html#google_vignette) |
 
