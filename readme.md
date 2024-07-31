@@ -113,5 +113,5 @@ WD-ProjectName
 ## Resources
 
 <!-- TODO: Add References -->
-| Responsive Website with CSS Slider | I used this as a template | https://www.divinectorweb.com/2024/05/responsive-web-layout-with-css-slider.html#google_vignette |
+| Codepen | I used this as a template | https://codepen.io/tag/responsivecard |
 
