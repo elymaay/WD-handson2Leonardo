@@ -110,8 +110,11 @@ WD-ProjectName
 └─ readme.md
 ```
 
-## Resources
-
 <!-- TODO: Add References -->
-| Codepen | I used this as a template | https://codepen.io/tag/responsivecard |
+
+| Title | Purpose | Link |
+|-|-|-|
+| Codepen |  I used this as a template| https://codepen.io/tag/responsivecard|
+
+
 
